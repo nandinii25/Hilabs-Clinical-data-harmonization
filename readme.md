@@ -1,58 +1,102 @@
 # Clinical Text Harmonization Engine  
 
+![Banner](images/banner.png)
+
 This project provides a complete pipeline for harmonizing clinical text descriptions by matching them to standard medical terminologies (RxNorm and SNOMED CT). It uses a fine-tuned sentence transformer model combined with traditional text matching for robust performance.  
 
 ## Project Structure  
 
-The project is organized into several Python modules for clarity and maintainability:  
+- **`config.py`**: Centralized configuration for all file paths, model names, etc.  
+- **`data_loader.py`**: Handles loading and preprocessing of all data.  
+- **`model_trainer.py`**: Handles the fine-tuning of the AI model.  
+- **`harmonizer.py`**: Implements the core matching and scoring logic.  
+- **`main.py`**: The main script for batch processing an entire test file.  
+- **`app.py`**: A web interface using Gradio for interactive testing.  
+- **`requirements.txt`**: A list of all necessary Python packages.  
 
-- **`config.py`**: A centralized file for all configurations, including file paths, model names, and algorithm parameters.  
-- **`data_loader.py`**: Contains the `DataLoader` class responsible for loading the knowledge base (RxNorm, SNOMED) and test datasets, and for text preprocessing.  
-- **`model_trainer.py`**: Contains the `ModelTrainer` class, which handles the fine-tuning of the SentenceTransformer model on the clinical terminology data.  
-- **`harmonizer.py`**: Contains the `Harmonizer` class, which implements the core logic for matching input text to the knowledge base using a hybrid approach (BM25 for candidate retrieval, fine-tuned model for semantic scoring, and fuzzy matching).  
-- **`main.py`**: The main entry point of the application that orchestrates the entire workflow from data loading to saving the final results.  
+## Local Setup Instructions  
+
+Follow these steps to set up and run the project on your local machine.  
+
+### 1. Create a Virtual Environment  
+
+It's highly recommended to use a virtual environment to avoid conflicts with other projects.  
+
+```bash  
+# Create a virtual environment named 'venv'  
+python -m venv venv  
+
+# Activate the virtual environment  
+# On Windows:  
+venv\Scripts\activate  
+# On macOS/Linux:  
+source venv/bin/activate  
+```  
+
+### 2. Install Dependencies  
+
+Install all the required packages using the `requirements.txt` file.  
+
+```bash  
+pip install -r requirements.txt  
+```  
+
+### 3. Download Data  
+
+Create a directory named `data` in the root of the project. Place your input files inside this `data` directory:  
+
+- `rxnorm_all_data.parquet`  
+- `snomed_all_data.parquet`  
+- `Test.xlsx`  
 
 ## How to Run  
 
-### Installation:  
-Make sure you have all the required libraries installed.  
+After setting up the environment, you can run the project in two modes.  
 
-```bash  
-pip install pandas pyarrow sentence-transformers faiss-cpu rank_bm25 thefuzz openpyxl  
+### A) First-Time Setup (Model Training)  
+
+The very first time you run the project, you need to train the model.  
+
+1. Open `main.py`.  
+2. Uncomment the lines for the `ModelTrainer`:  
+
+```python  
+# print("\nStarting model training...")  
+# trainer = ModelTrainer(kb_df)  
+# trainer.train()  
 ```  
 
-### Data:  
-Place your input files (`rxnorm_all_data.parquet`, `snomed_all_data.parquet`, `Test.xlsx`) in the directory specified in `config.py` (default is `/kaggle/input/hilabs/`).  
-
-### Execution:  
-Run the main script from your terminal.  
+3. Run the script. This will train the model and save it to the `./models` directory. It will also build the search indexes. This is a one-time, potentially long-running step.  
 
 ```bash  
 python main.py  
 ```  
 
-- The first time you run the script, it will fine-tune the model and build the necessary indexes. This can be time-consuming.  
-- On subsequent runs, the script will load the saved model and indexes, making the process much faster. If you want to retrain, you can either delete the saved model files or uncomment the training call in `main.py`.  
+4. Once training is complete, you can re-comment the training lines in `main.py` so it doesn't run every time.  
 
-## Workflow Overview  
+### B) Running the Application  
 
-1. **Data Loading & Preprocessing**:  
-    The `DataLoader` loads the RxNorm and SNOMED CT datasets, combines them into a single knowledge base, and applies aggressive text cleaning to both the knowledge base and the input text.  
+Once the model and indexes are created, you can run either the batch processing script or the interactive web app.  
 
-2. **Model Fine-Tuning (Optional on subsequent runs)**:  
-    The `ModelTrainer` creates training pairs from synonyms in the knowledge base and fine-tunes a SentenceTransformer model to better understand the semantics of clinical text. The trained model is saved to disk.  
+#### Batch Processing  
 
-3. **Indexing**:  
-    The `Harmonizer` creates a fast BM25 keyword index from the preprocessed knowledge base to quickly retrieve relevant candidates for any given input term.  
+To process the entire `Test.xlsx` file and generate a CSV output:  
 
-4. **Harmonization & Ensembling**:  
-    For each term in the test set, the `Harmonizer`:  
-    - Uses the BM25 index to fetch the top N most likely candidates.  
-    - Calculates a semantic score for these candidates using the fine-tuned model.  
-    - Calculates a fuzzy match score.  
-    - Combines these scores using a dynamic weighting system to produce a final ensemble score.  
+```bash  
+python main.py  
+```  
 
-5. **Output**:  
-    The final results, including the best match, scores, and a flag for manual review, are saved to a CSV file.  
+The results will be saved in the `./output` directory.  
 
-This structured approach makes the code easier to understand, test, and extend in the future.  
+#### Interactive Web Interface  
+
+![gradio app](images/gradio1.png)
+To launch a user-friendly web app for testing individual terms:  
+
+```bash  
+python app.py  
+```  
+
+
+
+Open your web browser and navigate to the local URL shown in the terminal (usually `http://127.0.0.1:7860`).  
