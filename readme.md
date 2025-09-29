@@ -1,6 +1,9 @@
 # Clinical Text Harmonization Engine  
 
 ![Banner](images/banner.png)
+## Created by : Nandini Agarwal ![Email](nandiniagrawal@kgpian.iitkgp.ac.in) ![Contact](+918764779998)
+
+
 
 This project provides a complete pipeline for harmonizing clinical text descriptions by matching them to standard medical terminologies (RxNorm and SNOMED CT). It uses a fine-tuned sentence transformer model combined with traditional text matching for robust performance.  
 
@@ -96,6 +99,7 @@ To launch a user-friendly web app for testing individual terms:
 ```bash  
 python app.py  
 ```  
+
 
 
 
