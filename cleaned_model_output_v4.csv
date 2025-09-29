@@ -1,0 +1,401 @@
+Input,Predicted_Standard_Description,Predicted_CUI,Predicted_CODE,Predicted_SYSTEM,Predicted_SCORE,Semantic Score,Fuzzy Score
+mri pelvis,MRI of pelvis,C0203201,2690005,SNOMED CT,0.95,0.91,1
+hcv rna,Hepatitis C Virus (HCV) RNA test,C0035668,9394,RxNorm,0.82,0.7,1
+depression screen,Whooley depression screen,C3472507,450752004,SNOMED CT,0.93,0.89,1
+induction for prom,Induction of labor following premature rupture of membranes,C1283175,360161008,SNOMED CT,0.71,0.71,0.72
+polypectomy,Polypectomy,C0521210,82035006,SNOMED CT,1,1,1
+tympanic tube insertion,Insertion of tympanostomy tube,C5788004,1263464003,SNOMED CT,0.86,0.85,0.9
+right salpingectomy,Right salpingectomy,C0404194,176916000,SNOMED CT,1,1,1
+blood phiebotomy,Phlebotomy (Blood draw),C0005767,87612001,SNOMED CT,0.64,0.41,1
+color and spectral doppler,Doppler color flow,C0474781,261197005,SNOMED CT,0.8,0.79,0.84
+coronary angioplasty,Coronary angioplasty,C0190211,41339005,SNOMED CT,1,1,1
+sono,aconite,C0001157,242,RxNorm,0.37,0.37,0.36
+transvaginal ultrasound procedure,Transvaginal ultrasound scan,C0203418,13205008,SNOMED CT,0.88,0.88,0.9
+intracytoplasmic sperm injection,ICSI - intracytoplasmic sperm injection,C0455164,425901007,SNOMED CT,0.9,0.87,1
+ct brain,MRI of breast with or without contrast,C0412585,34227000,SNOMED CT,0.95,0.92,1
+iud removal,CT scan of chest with or without contrast,C0420866,169484002,SNOMED CT,0.94,0.89,1
+psychotherapy follow-up,Psychiatric follow-up,C0204511,88848003,SNOMED CT,0.77,0.76,0.77
+hpv dna,Biopsy of cervix,C0201678,35904009,SNOMED CT,0.86,0.77,1
+chd repair,Repair,C0374711,4365001,SNOMED CT,0.83,0.72,1
+g1- vaginal delivery,Reduction of fracture,C0566690,289259007,SNOMED CT,0.9,0.88,1
+renal bladder ultrasound,Ultrasound of kidney and bladder,C2456888,1.08E+15,SNOMED CT,0.92,0.94,0.86
+depression screening,Depression screening,C0740218,171207006,SNOMED CT,1,1,1
+spinal anesthesia,Spinal anesthesia,C0002928,231249005,SNOMED CT,1,1,1
+body image counseling,Change in body image counseling,C0558052,225421002,SNOMED CT,0.89,0.86,1
+endometrial biopsy,Endometrial biopsy,C1510477,386802000,SNOMED CT,1,1,1
+cognitive behavioral therapy,Cognitive and behavioral therapy,C0009244,228557008,SNOMED CT,0.98,0.98,1
+epidural asa,ASA 650 MG / butalbital 50 MG Oral Tablet,C0688082,197429,RxNorm,0.43,0.45,0.4
+contraception vasectomy,Vasectomy for contraception,C0042387,22523008,SNOMED CT,0.99,0.98,1
+drainage of skin abscess,Drainage of abscess of skin,C2960687,447075007,SNOMED CT,0.99,0.99,1
+mcv,McV,C1961129,426342006,SNOMED CT,1,1,1
+osteoporosis screening,Screening for osteoporosis,C0576743,300004007,SNOMED CT,0.99,0.98,1
+splenectomy,Splenectomy,C0037995,234319005,SNOMED CT,1,1,1
+dental procedure,Dental surgical procedure,C0204324,81733005,SNOMED CT,0.97,0.95,1
+abdominal us,Ultrasound of abdomen,C0203464,45036003,SNOMED CT,0.76,0.61,1
+vision screen vision screen,Vision screening,C0042792,408760009,SNOMED CT,0.71,0.67,0.9
+right foot x-ray,Plain X-ray of right foot,C1960896,426311001,SNOMED CT,0.93,0.91,1
+pilonidal cyst removal,CT scan of abdomen and pelvis with or without contrast,C0948308,702643008,SNOMED CT,0.99,0.98,1
+color flow doppler,Color Doppler flow,C0474781,423736003,SNOMED CT,0.95,0.94,1
+total hysterectomy oophorectomy,Total hysterectomy,C0677962,116140006,SNOMED CT,0.89,0.86,1
+vaginal laceration repair,Zoladex injection,C0372565,237028006,SNOMED CT,0.93,0.93,0.92
+biopsy of right cervical lymph node procedure,Biopsy of cervical lymph node (procedure),C0398433,234270003,SNOMED CT,0.88,0.85,1
+excision of lesion of breast,Excision of lesion of breast,C2004478,392023007,SNOMED CT,1,1,1
+staple removal,Removal of staple from epiphysis,C0407515,179196001,SNOMED CT,0.89,0.82,1
+c-sections,Number of cesarean sections,C0474744,252115000,SNOMED CT,0.74,0.64,0.89
+head us,Ultrasound of head,C0439224,258698007,SNOMED CT,0.82,0.7,1
+mri abdomen,MRI of abdomen,C0412693,241621009,SNOMED CT,0.96,0.93,1
+cabg,Emergency CABG,C1532296,414088005,SNOMED CT,0.81,0.68,1
+fasciotomies,aconitine,C0001159,1441664,RxNorm,0.41,0.3,0.57
+ovary removal,CT scan of chest,C0195494,5687005,SNOMED CT,0.9,0.84,1
+chd screen,DIC screen,C0200493,53643002,SNOMED CT,0.77,0.75,0.8
+cardiac valve replacement,Heart valve replacement,C0190173,34068001,SNOMED CT,0.95,0.97,0.85
+right lumpectomy,Lumpectomy of right breast,C2200899,735086001,SNOMED CT,0.9,0.84,1
+fetal echo with mfm,Fetal echocephalometry,C0554760,169224002,SNOMED CT,0.68,0.7,0.59
+pediatric vision screen,Vision screening,C0042792,408760009,SNOMED CT,0.65,0.65,0.67
+wchc ultrasound,Ultrasound,C0041618,16310003,SNOMED CT,0.83,0.72,1
+pacemaker insertion,Insertion of pacemaker pulse generator,C0189843,70573000,SNOMED CT,0.91,0.85,1
+pelvic us,Ultrasound for pelvic region,C0439224,258698007,SNOMED CT,0.72,0.53,1
+partial l mastectomy,Partial mastectomy,C0024885,64368001,SNOMED CT,0.92,0.9,1
+ivf,IVF medium,C3872464,469571006,SNOMED CT,0.9,0.83,1
+re-exploratory laparotomy removal,Exploratory laparotomy,C0085704,74770008,SNOMED CT,0.9,0.87,1
+amniocentess,aconite,C0001157,242,RxNorm,0.4,0.32,0.53
+bilateral hip ultrasound,Ultrasound of bilateral testes,C5688223,1220588004,SNOMED CT,0.77,0.73,0.91
+tooth removed circumcised,Circumcised foreskin,C0426340,249255000,SNOMED CT,0.58,0.55,0.71
+screening for malignant neoplasm of cervix,Screening for malignant neoplasm of cervix,C0420020,171149006,SNOMED CT,1,1,1
+blood products transfused,Transfusing blood products,C0005841,116859006,SNOMED CT,0.95,0.97,0.9
+dm screening,Screening,C1305399,360156006,SNOMED CT,0.89,0.82,1
+fetal u/s,Fetal hemorrhage into mother's circulation,C0015959,71028008,SNOMED CT,0.59,0.4,0.88
+chemo,acetone,C0001002,178,RxNorm,0.47,0.45,0.5
+breech birth,Birth,C0005615,3950001,SNOMED CT,0.85,0.75,1
+hip u/s,U/h,C0456685,258949000,SNOMED CT,0.56,0.54,0.6
+cpap,CPAP/BPAP oral mask,C3874730,704718009,SNOMED CT,0.85,0.76,1
+loop electrical excision procedure,Loop electrosurgical excision procedure,C0184930,36899001,SNOMED CT,0.92,0.92,0.93
+angiogram,Angiogram,C0002978,77343006,SNOMED CT,1,1,1
+omphalocele closure,Closure of omphalocele,C0198568,30502000,SNOMED CT,0.99,0.98,1
+myosure,aconite,C0001157,242,RxNorm,0.28,0.27,0.29
+body lithotomy,Lithotomy,C1293108,123678003,SNOMED CT,0.93,0.88,1
+blood sinsfusions,Blood,C0005767,87612001,SNOMED CT,0.78,0.64,1
+breast biopsy,Biopsy of breast,C0405352,122548005,SNOMED CT,0.99,0.98,1
+carotid ultrasound,Ultrasound of carotid artery,C0948945,276021004,SNOMED CT,0.92,0.87,1
+screening annual mammography,Screening mammography,C0203028,24623002,SNOMED CT,0.93,0.91,1
+transfused prbc,CT scan of abdomen and pelvis,C0199962,71493000,SNOMED CT,0.79,0.82,0.76
+circumcision counseling,Circumcision,C0008819,72310004,SNOMED CT,0.88,0.8,1
+ultrasound of fetal anatomy,Ultrasound scan for fetal presentation,C0412560,169228004,SNOMED CT,0.83,0.85,0.74
+color doppler,Color ultrasonic Doppler,C0474781,423736003,SNOMED CT,0.88,0.8,1
+dna screening,Thrombophilia DNA (deoxyribonucleic acid) marker screening test,C2732397,443212006,SNOMED CT,0.81,0.69,1
+blood-drawphlebotomy,Blood,C0005767,87612001,SNOMED CT,0.58,0.3,1
+peripheral stem call transplant,Stem cell transplant,C1504389,1269349006,SNOMED CT,0.76,0.74,0.86
+xr chest portable,Portable plain X-ray,C0438653,425583002,SNOMED CT,0.61,0.6,0.64
+vulvar biopsy,Vulvar biopsy,C1744618,274942001,SNOMED CT,1,1,1
+digital tomosynthesis,Digital tomosynthesis - action,C5923179,1331948002,SNOMED CT,0.92,0.87,1
+hpv screening,Screening,C1305399,360156006,SNOMED CT,0.75,0.59,1
+lead blood,"Lead screening, blood",C0202399,35833009,SNOMED CT,0.9,0.83,1
+nuchal translucency ultrasound,Ultrasound scan for fetal nuchal translucency,C1443351,408815001,SNOMED CT,0.87,0.83,1
+remove pacemaker,Pacemaker care,C0397442,233184008,SNOMED CT,0.7,0.64,0.8
+picc placement,Placement,C0021107,782902008,SNOMED CT,0.85,0.75,1
+transuaginal us,Transvaginal ultrasound,C0439224,258698007,SNOMED CT,0.69,0.49,1
+encounter for screening for human papillomavirus,Human papillomavirus screening,C3839551,700152009,SNOMED CT,0.92,0.9,1
+afp,AFP radioimmunoassay,C0436162,169188005,SNOMED CT,0.77,0.62,1
+screen for std,Seen by STD physician,C0583573,305679000,SNOMED CT,0.65,0.68,0.57
+red blood cell transfusion,Transfusion of red blood cells,C0086252,116863004,SNOMED CT,0.97,0.97,0.93
+colonescopy,aconite,C0001157,242,RxNorm,0.19,0.03,0.44
+anticardiolipin antibody,Anticardiolipin antibody measurement,C0201535,65946008,SNOMED CT,0.82,0.7,1
+human papilloma virus,Human papilloma virus infection,C0343641,240532009,SNOMED CT,0.97,0.96,1
+preg test u,U- phenotype (finding),C1292208,115802003,SNOMED CT,0.51,0.54,0.4
+hemoglobin alc,Hemoglobin,C0019046,38082009,SNOMED CT,0.89,0.81,1
+tibc + ferritin serum,Serum ferritin/TIBC,C0565897,275759006,SNOMED CT,0.98,0.98,1
+liver enzymee,Repair of vaginal laceration,C0443764,259670004,SNOMED CT,0.96,0.96,0.96
+maternal antibody screen,Antibody screen,C0368676,120646007,SNOMED CT,0.88,0.85,1
+bile acids total,Total bile acids measurement,C0201914,5264008,SNOMED CT,0.8,0.75,1
+neutrophil,Tissue neutrophil,C0229611,88397004,SNOMED CT,0.94,0.89,1
+globulin cale,Globulin,C0017649,81905004,SNOMED CT,0.86,0.77,1
+alanine aminotransferase,Alanine aminotransferase,C0001899,56935002,SNOMED CT,1,1,1
+creatine,creatine,C0010286,2907,RxNorm,1,1,1
+antiphospholipid ab,Antiphospholipid anticoagulant,C0085240,16923002,SNOMED CT,0.82,0.76,0.91
+triglycerick,acetylcholine,C0001041,194,RxNorm,0.35,0.37,0.32
+hb a2,Hb,C0019046,38082009,SNOMED CT,0.97,0.94,1
+hepistitis c screening,Hepatitis C screening,C0948769,413107006,SNOMED CT,0.76,0.72,0.93
+rbc antibody screen,Antibody screen,C0368676,120646007,SNOMED CT,0.9,0.88,1
+lymphocyte s,Lymphocyte,C0024264,56972008,SNOMED CT,0.94,0.89,1
+urinalysis w/reflex microscopic,CT scan of head,C0430397,127800008,SNOMED CT,0.82,0.77,1
+hiv nucleic acid testing,HIV 1 nucleic acid detection,C1275788,398579006,SNOMED CT,0.88,0.89,0.85
+chloride,Chloride,C0008203,50213009,SNOMED CT,1,1,1
+antibody total serum hiv,HIV - Human immunodeficiency virus antibody,C0019683,259855002,SNOMED CT,0.7,0.71,0.67
+eosinophil absolute count,Eosinophil count,C0200638,365601007,SNOMED CT,0.9,0.87,1
+"ketones, urine",Urine ketones not detected,C0427751,167287002,SNOMED CT,0.85,0.75,1
+hsv antibodies,Human Papillomavirus DNA test,C0587817,310298004,SNOMED CT,0.65,0.53,0.83
+lactate,lactate,C0376261,114202,RxNorm,1,1,1
+aspartate aminotrans,Aspartate aminotransferase,C0004002,26091008,SNOMED CT,0.79,0.74,0.87
+microalbumin/creatinine ratio,Urine microalbumin/creatinine ratio,C0584615,271076007,SNOMED CT,0.94,0.9,1
+protein/creatining panel,Protein 55,C0007507,81578006,SNOMED CT,0.68,0.58,0.82
+basophils,Disorder of basophils,C1563248,417389002,SNOMED CT,0.85,0.76,1
+b varicella zosten antibody,Varicella-zoster virus antibody,C0443710,259858000,SNOMED CT,0.77,0.75,0.86
+total iron,iron,C0302583,90176,RxNorm,0.89,0.82,1
+candida krusei pcr,Candida krusei,C0319629,16452009,SNOMED CT,0.85,0.82,1
+"partial thromboplastin time, activated","Partial thromboplastin time, activated",C0030605,42525009,SNOMED CT,1,1,1
+gclchlamydia urine,Urine,C0042036,78014005,SNOMED CT,0.72,0.53,1
+iga ab,Monoclonal IgA,C0370236,712603009,SNOMED CT,0.68,0.69,0.67
+ketones chemistry urine,Urine ketones testing tablets,C1303692,401764005,SNOMED CT,0.75,0.76,0.72
+serum folate serum,"Serum folate measurement, serum",C0202020,60306005,SNOMED CT,0.94,0.92,1
+leuks,aclarubicin,C0001143,239,RxNorm,0.24,0.24,0.25
+blood count,Complete blood count,C0009555,26604007,SNOMED CT,0.92,0.87,1
+influenza a + b pcr,influenza A virus A/Christchurch/16/2010 (H1N1) antigen / influenza A virus A/Hong Kong/4801/2014 (H3N2) antigen / influenza B virus B/Brisbane/60/2008 antigen / influenza B virus B/Phuket/3073/2013 antigen,C4271579,1799108,RxNorm,0.65,0.59,0.87
+fetal hgb stain,Stain,C0038128,397165007,SNOMED CT,0.68,0.6,1
+hiv exposure test,Papanicolaou smear test (Pap smear),C0459958,171121004,SNOMED CT,0.84,0.88,0.69
+bilo acids,alpha hydroxy acids,C0772110,236797,RxNorm,0.7,0.71,0.67
+ast labs,AST serum measurement,C1261155,250641004,SNOMED CT,0.52,0.49,0.55
+alpha-fetoprotein test,Alpha-fetoprotein blood test,C0419584,268468007,SNOMED CT,0.97,0.95,1
+hdl panel,HDL 3,C0023814,115333008,SNOMED CT,0.73,0.71,0.75
+chol/hdlc ratio,MRI of leg,C0523558,313811003,SNOMED CT,0.8,0.81,0.78
+wound culture + smear,"Wound microscopy, culture and sensitivities",C1303252,401294003,SNOMED CT,0.75,0.74,0.81
+protein 24h un,Proteinase H(2),C0062046,130731003,SNOMED CT,0.8,0.82,0.71
+protein. total,% of total protein,C0439177,258757008,SNOMED CT,0.97,0.96,1
+ggt,GGT measurement,C0202035,69480007,SNOMED CT,0.81,0.68,1
+hemoglobin c,Hemoglobin C,C0019020,61967003,SNOMED CT,1,1,1
+growth hormone,Growth hormone releasing hormone,C0037668,16628008,SNOMED CT,0.97,0.95,1
+erythrocyte sediment rate,Erythrocyte sedimentation rate,C1619634,365649001,SNOMED CT,0.96,0.98,0.91
+ferritin scrum,Ferritin,C0015879,32789000,SNOMED CT,0.83,0.71,1
+reactive hepatitis c antibody,Hepatitis C virus antibody,C0166049,72165005,SNOMED CT,0.87,0.87,0.87
+islet cell antibodies,Islet cell antibody,C0063900,117199004,SNOMED CT,0.96,0.98,0.9
+tacrolimus level,Serum tacrolimus level,C1278118,313563000,SNOMED CT,0.92,0.86,1
+reactive hiv-1 antigen,Reactive for human immunodeficiency virus p24 antigen,C4076553,713008009,SNOMED CT,0.72,0.69,0.84
+urobilinogen urine,Urine urobilinogen,C0427736,67410005,SNOMED CT,0.96,0.94,1
+immature retic fraction,Immature reticulocyte fraction,C1446165,413042008,SNOMED CT,0.88,0.88,0.87
+"lactic acid, plasma",lactic acid,C0064582,28393,RxNorm,0.82,0.78,1
+protein/creatining ratio,Protein/creatinine ratio,C0428627,250750009,SNOMED CT,0.95,0.95,0.96
+hgb a2,HGB - Hemoglobin,C0019046,38082009,SNOMED CT,0.7,0.71,0.67
+ldl chol,LDL,C0023823,22244007,SNOMED CT,0.89,0.81,1
+hep c,HEP,C0449198,258334004,SNOMED CT,0.92,0.87,1
+ua reflex,Reflex,C0034929,87572000,SNOMED CT,0.89,0.82,1
+total testosterone,testosterone,C0039601,10379,RxNorm,0.91,0.86,1
+hemoglobinopathy screen,Hemoglobinopathy,C0019045,80141007,SNOMED CT,0.8,0.66,1
+cbc w/ differential,Potassium measurement in blood,C0200631,43789009,SNOMED CT,0.82,0.79,0.94
+hpv type 18,HPV typing,C0201679,67778008,SNOMED CT,0.8,0.83,0.67
+urinalysis with reflex,Urinalysis with reflex to microscopy,C2711809,442468009,SNOMED CT,0.84,0.8,1
+flbrinogen,euflavine,C0001187,249,RxNorm,0.55,0.56,0.53
+alt) aspartate 15,aspartate,C0085845,42543,RxNorm,0.74,0.68,1
+urineculture,activated charcoal,C0001275,272,RxNorm,0.29,0.3,0.27
+o2 level,Hemoglobin O level,C1321156,408190009,SNOMED CT,0.68,0.62,0.77
+urine opiates,Urine opiates screening test,C1278206,314083002,SNOMED CT,0.78,0.64,1
+hgb electrophorosis,HGB - Hemoglobin,C0019046,38082009,SNOMED CT,0.41,0.36,0.48
+rapid flu b,Flu,C0021400,6142004,SNOMED CT,0.74,0.67,1
+hemoglobin a1c percent,percent of total hemoglobin,C0475206,258762009,SNOMED CT,0.84,0.82,0.9
+liver profile,pH profile,C0429225,251385003,SNOMED CT,0.62,0.48,0.82
+ana antibody screen,Antibody screen,C0368676,120646007,SNOMED CT,0.93,0.92,1
+wbc. ur,WBC - White blood cell,C0023516,52501007,SNOMED CT,0.71,0.74,0.67
+hep c antibody,Hepatitis C virus antibody,C0166049,72165005,SNOMED CT,0.78,0.77,0.83
+plt plt,PLT - Platelet,C0005821,16378004,SNOMED CT,0.71,0.52,1
+ph. urine,Urine pH test,C0042044,167305006,SNOMED CT,0.88,0.81,1
+ck2,Macro CK,C1568366,102772008,SNOMED CT,0.62,0.8,0.36
+fibrinogen titer,CT scan of pelvis,C1301565,397636002,SNOMED CT,1,1,1
+influenza a by,Influenza virus A,C0029347,407479009,SNOMED CT,0.82,0.81,0.88
+prenatal glucose tolerance,Impaired glucose tolerance in pregnancy,C0342307,237628005,SNOMED CT,0.86,0.88,0.79
+absolute monocytes,Abnormal monocytes,C0580319,165540007,SNOMED CT,0.78,0.79,0.78
+vitamin d levels,Serum vitamin D level,C0428586,270990000,SNOMED CT,0.88,0.89,0.86
+specific gravity urine dipstick,Urine dipstick for specific gravity,C0430383,252386004,SNOMED CT,0.96,0.95,1
+vaginal organism swab,Vaginal swab,C0444207,258520000,SNOMED CT,0.97,0.96,1
+stool occult blood,Occult blood in stool,C0266813,59614000,SNOMED CT,0.98,0.97,1
+glucose load testing,Glucose load test,C0730535,313194008,SNOMED CT,0.97,0.98,0.92
+influenza a+b ag,Fentanyl transdermal patch,C1291843,121008006,SNOMED CT,0.89,0.88,0.93
+chco3,aconite,C0001157,242,RxNorm,0.44,0.51,0.33
+cbc w/diff,w/w,C2919747,444793006,SNOMED CT,0.74,0.57,1
+sore thraot,Sore,C1455785,410713007,SNOMED CT,0.89,0.82,1
+hyperglycernia,adiphenine,C0001521,333,RxNorm,0.3,0.27,0.33
+fast breathing,Breathing,C0035203,719983008,SNOMED CT,0.88,0.79,1
+subgaleal bleed,Subgaleal hemorrhage,C0475728,276622005,SNOMED CT,0.76,0.77,0.75
+thyroid disorders,Colonoscopy,C0040127,29028009,SNOMED CT,0.8,0.86,0.71
+ocd,CT scan of brain,C0028768,191736004,SNOMED CT,0.9,0.83,1
+adhd anxiety,Anxiety,C0003467,48694002,SNOMED CT,0.83,0.72,1
+heart murmur of newborns,Neonatal physiological heart murmur,C4302213,722920009,SNOMED CT,0.86,0.9,0.67
+retractions,acetone,C0001002,178,RxNorm,0.3,0.12,0.56
+flexural eczema,Flexural eczema,C0263224,57092006,SNOMED CT,1,1,1
+diabetes mellitus prediabetic,Diabetes mellitus,C0011849,73211009,SNOMED CT,0.9,0.88,1
+parotid swelling,Parotid swelling,C0424823,271613005,SNOMED CT,1,1,1
+stomach cancer,Cancer of stomach,C0024623,363349007,SNOMED CT,0.97,0.95,1
+house dust mite allergy,House dust mite allergy,C0339808,232350006,SNOMED CT,1,1,1
+nausea & vomiting,Nausea and vomiting,C0027498,16932000,SNOMED CT,0.96,0.95,1
+herpes zoster without complication,Herpes zoster without complication,C1264622,111859007,SNOMED CT,1,1,1
+itching on the palms of her hands,Itching of both hands,C0858709,890090001,SNOMED CT,0.7,0.66,0.86
+bilateral non-pitting edema of legs,Edema of bilateral lower legs,C5230917,816190002,SNOMED CT,0.88,0.88,0.88
+allergic rhinitis,Allergic rhinitis,C2607914,61582004,SNOMED CT,1,1,1
+pure hypercholesterolemiz,Pure hypercholesterolemia,C0678189,267432004,SNOMED CT,0.86,0.8,0.96
+placental disorder,Placental insufficiency (disorder),C0032051,237292005,SNOMED CT,0.92,0.87,1
+bleeding on tp,Bleeding,C0019080,131148009,SNOMED CT,0.85,0.81,1
+coughs up blood,Coughing up blood,C0019079,66857006,SNOMED CT,0.93,0.94,0.88
+tinea corporis,Tinea corporis,C0040252,84849002,SNOMED CT,1,1,1
+partner violence,Violent partner,C5768430,1251650003,SNOMED CT,0.89,0.89,0.9
+ideopathic intercranial htn,HTN - Hypertension,C0020538,38341003,SNOMED CT,0.41,0.41,0.42
+vanishing twin syndrome,Vanishing twin syndrome,C0404852,237245006,SNOMED CT,1,1,1
+clubbing of fingers,Finger clubbing,C0009080,30760008,SNOMED CT,0.93,0.94,0.88
+inappropriate sinus tacchycardia,Inappropriate sinus tachycardia,C1881170,425582007,SNOMED CT,0.96,0.96,0.98
+chronic serous otitis media of both ears,Chronic otitis media of both ears,C2074889,1.08E+15,SNOMED CT,0.96,0.95,1
+eczema on hands & wrist,Eczema of wrist,C0241751,300926005,SNOMED CT,0.9,0.91,0.89
+difficulty with walking,Difficulty walking,C0311394,719232003,SNOMED CT,0.99,0.98,1
+pneumococcal meningitis,Pneumococcal meningitis,C0025295,51169003,SNOMED CT,1,1,1
+pubic symphysis dysfunction,Symphysis pubis dysfunction,C0240682,703619001,SNOMED CT,0.95,0.95,0.96
+ventral hernia,Ventral hernia,C0019326,414396006,SNOMED CT,1,1,1
+excessive sweatiness,Excessive sweating,C0700590,52613005,SNOMED CT,0.92,0.95,0.89
+jaundice to abd head,Jaundice,C0022346,18165001,SNOMED CT,0.64,0.56,1
+paralysis,Paralysis,C0522224,44695005,SNOMED CT,1,1,1
+nabothian cysts,Nabothian cyst,C0027269,767356009,SNOMED CT,0.92,0.89,0.97
+painful swallowing throat,Painful swallowing,C0221150,30233002,SNOMED CT,0.9,0.88,1
+off lower quadrant pain,Right lower quadrant pain,C0694551,301754002,SNOMED CT,0.85,0.84,0.9
+congenital mvp,Congenital,C1744681,255399007,SNOMED CT,0.87,0.78,1
+3- duanes syndrome,Syndrome,C0039082,64572001,SNOMED CT,0.81,0.76,1
+pregnancy induced htn,Pregnancy-induced hypertension,C0852036,48194001,SNOMED CT,0.78,0.75,0.89
+liver hematoma,Liver hematoma,C0347630,262796008,SNOMED CT,1,1,1
+pregnancy induced hypertension in third trimester,Pregnancy-induced hypertension,C0852036,48194001,SNOMED CT,0.87,0.83,1
+polyps,Multiple polyps,C0334108,9499001,SNOMED CT,0.87,0.78,1
+nevus,Nevus,C1456781,1163403006,SNOMED CT,1,1,1
+mass on liver,Liver mass,C0240225,300332007,SNOMED CT,0.96,0.96,1
+disorder of fetus or newborn,Disorder of fetus or newborn,C1533165,414025005,SNOMED CT,1,1,1
+vaginal aching,Vaginal tenderness,C0567013,289594004,SNOMED CT,0.8,0.88,0.67
+petechial rash,Petechial rash,C0241144,423716004,SNOMED CT,1,1,1
+congestion sneezing,Sneezing,C0037383,76067001,SNOMED CT,0.93,0.88,1
+vision changes,Vision unchanged,C5924883,1.16E+13,SNOMED CT,0.88,0.89,0.87
+pitting edema to knees,Pitting edema,C0333243,5008001,SNOMED CT,0.82,0.77,1
+bloody urine,Urine,C0042036,78014005,SNOMED CT,0.88,0.79,1
+"type 1 diabetes, pku",Diabetes type,C1320657,405751000,SNOMED CT,0.81,0.76,1
+erythema pain,Erythema,C0041834,247441003,SNOMED CT,0.85,0.76,1
+fungal infection,Fungal infection,C0026946,3218000,SNOMED CT,1,1,1
+diabetes obesity,Obesity,C0028754,414916001,SNOMED CT,0.88,0.8,1
+l ear pain,Pain of ear,C0013456,301354004,SNOMED CT,0.88,0.87,0.89
+polyhydram,adiphenine,C0001521,333,RxNorm,0.3,0.37,0.2
+altered mental status,Altered mental status,C0278061,419284004,SNOMED CT,1,1,1
+renal insufficien,Renal dysfunction,C1565489,236423003,SNOMED CT,0.7,0.74,0.65
+hip disorders,Disorders,C0012634,64572001,SNOMED CT,0.77,0.62,1
+disorientation,Disorientation,C0233407,62476001,SNOMED CT,1,1,1
+social isolation,Social isolation,C0037421,422650009,SNOMED CT,1,1,1
+infection with hiv,HIV infection,C0019693,86406008,SNOMED CT,0.98,0.97,1
+chromosome disorders,Chromosome,C0008633,91272006,SNOMED CT,0.85,0.75,1
+high bp,BP - High blood pressure,C0020538,38341003,SNOMED CT,0.91,0.84,1
+lee edema,Edema,C0013604,267038008,SNOMED CT,0.79,0.65,1
+covid-19 flu,Flu,C0021400,6142004,SNOMED CT,0.88,0.8,1
+loss of hair,Loss of hair,C0002170,278040002,SNOMED CT,1,1,1
+hemophilia or other blood disorders,Hemophilia,C0684275,90935002,SNOMED CT,0.89,0.86,1
+anogenital tract infections,Infections of the genital tract in pregnancy,C0451799,199112006,SNOMED CT,0.7,0.69,0.74
+redness edema,Edema,C0013604,267038008,SNOMED CT,0.86,0.77,1
+vulvar cyst,Cyst,C0010709,441457006,SNOMED CT,0.83,0.71,1
+gad,GAD - Generalized anxiety disorder,C0270549,21897009,SNOMED CT,0.72,0.54,1
+charcot marie tooths disease,CMT - Charcot-Marie-Tooth disease,C0027888,398100001,SNOMED CT,0.95,0.96,0.92
+fetal hyperglycemia,Hyperglycemia,C0020456,80394007,SNOMED CT,0.92,0.87,1
+pre-existing hypertension during pregnancy,Pre-existing hypertension complicating pregnancy,C0341919,86041002,SNOMED CT,0.94,0.95,0.91
+tonsillar abscess,Tonsillar ulcer,C0272392,16485001,SNOMED CT,0.74,0.74,0.75
+osteoarthritis,Osteoarthritis,C0029408,396275006,SNOMED CT,1,1,1
+deficiency iron,Iron deficiency,C0240066,35240004,SNOMED CT,0.96,0.93,1
+32 weeks gestation of pregnancy,Gestation <24 weeks,C0730521,313178001,SNOMED CT,0.91,0.91,0.91
+red lesions on hands,Cold hands,C0424740,271584002,SNOMED CT,0.63,0.61,0.67
+ectopic fetus,Ectopic fetus,C0266664,49964003,SNOMED CT,1,1,1
+cephalopelvic disproportion,Cephalopelvic disproportion,C0085988,199397009,SNOMED CT,1,1,1
+hb chain hemoglobinopathy,Hemoglobinopathy,C0019045,80141007,SNOMED CT,0.9,0.87,1
+edema to thighs,Edema of bilateral thighs,C5764071,1304272004,SNOMED CT,0.82,0.8,0.89
+weight gain of newbom,Weight gain,C0043094,262286000,SNOMED CT,0.82,0.78,1
+wound seroma,Wound seroma,C0406831,239159001,SNOMED CT,1,1,1
+di-di twins,Di-Phen,C0719856,216561,RxNorm,0.5,0.48,0.53
+post partum hemorrhage,Hemorrhage,C0019080,131148009,SNOMED CT,0.83,0.78,1
+chronic nasal congestion,Nasal congestion,C0027424,68235000,SNOMED CT,0.93,0.91,1
+chlamydia neisseria gonorrhoeas,Neisseria cinerea or Neisseria gonorrhoeae,C5549799,4.71E+14,SNOMED CT,0.84,0.86,0.76
+mono-di pregnancy,Mono test,C0201383,59048000,SNOMED CT,0.55,0.51,0.62
+submandibular lymph node enlargement,Enlargement of lymph nodes,C0497156,30746006,SNOMED CT,0.84,0.86,0.79
+n/v/d,V>D<,C0231965,19982009,SNOMED CT,0.93,0.89,1
+maternal chronic hypertension in third trimester,Maternal hypertension,C0565599,288250001,SNOMED CT,0.8,0.75,1
+cetirizine 1 mg/ml oral solution common y know 2% syrtte take 5 ml (5 mg) by mouth 1 time a day as needed,cetirizine,C0055147,20610,RxNorm,0.6,0.5,1
+vitamin d daily,Vitamin D intake,C0564439,286607009,SNOMED CT,0.81,0.82,0.75
+doxycycline hyclate 100 mg capsule,doxycycline hyclate 20 MG Oral Capsule,C0976556,310028,RxNorm,0.99,1,0.94
+varicella virus (varivax) live vaccine 0.5 ml,varicella virus vaccine live (VAR) 1350 PFU in 0.5 ML Injection,C0694239,1292457,RxNorm,0.87,0.86,0.9
+aspirin 81 mg cap,aspirin,C0004057,1191,RxNorm,0.84,0.8,1
+rhogam,RhoGAM,C0702053,204300,RxNorm,1,1,1
+melatonin 5mg at bedtime,melatonin,C0025219,6711,RxNorm,0.89,0.86,1
+lidocaine 5 % topical ointment,lidocaine 0.1 MG/MG Topical Ointment,C0693177,199611,RxNorm,0.99,1,0.96
+atorvastatin 10 mg,atorvastatin,C0286651,83367,RxNorm,1,1,1
+pediarix),PEDIARIX,C1170508,352877,RxNorm,1,1,1
+pediarix vac- vpc,PEDIARIX,C1170508,352877,RxNorm,0.66,0.57,1
+meloxicam 7.5 mg oral tablet,meloxicam,C0083381,41493,RxNorm,1,1,1
+docusate sodium 100 mg oral capsule,docusate sodium 50 MG Oral Capsule,C0691401,1247759,RxNorm,0.99,1,0.96
+ibuprofen 600 mg oral tablet,ibuprofen,C0020740,5640,RxNorm,1,1,1
+sodium chloride 0.9 % injection 2 ml,sodium chloride,C0037494,9863,RxNorm,1,1,1
+benzonatate (tessalon perles) 100 mg po caps take 1 capsule 3 times daily as needed,benzonatate 100 MG Oral Capsule [Tessalon Perles],C0709910,208365,RxNorm,0.76,0.72,0.94
+ezetimibe (zetia) 10 mg po tabs take 1 tab by mouth every other day,ezetimibe 10 MG Oral Tablet [Zetia],C1169927,352304,RxNorm,0.6,0.56,0.78
+rosuvastatin (crestor) 5 mg po tabs take 1 tab by mouth every other day,rosuvastatin Oral Tablet [Crestor],C1331112,405880,RxNorm,0.54,0.48,0.77
+ezetimibe (zetia) 10 mg po tabs take 1 tab by mouth,ezetimibe 10 MG Oral Tablet [Zetia],C1169927,352304,RxNorm,0.61,0.57,0.78
+acetaminophen 325 mg tablet,acetaminophen,C0000970,161,RxNorm,1,1,1
+amoxicillin 400 mg/5 ml oral suspension,amoxicillin 750 MG Oral Suspension,C0355935,105151,RxNorm,0.99,1,0.94
+topamax 100 mg tablet:: take 1 tablet by oral route every day,Topamax 50 MG Oral Tablet,C0590815,151227,RxNorm,0.76,0.72,0.94
+fluconazole 150 mg,fluconazole,C0016277,4450,RxNorm,1,1,1
+amoxicillin 875 mg,amoxicillin,C0002645,723,RxNorm,1,1,1
+vitamin d3,vitamin D2,C0014695,4018,RxNorm,0.96,1,0.9
+topamax 100 mg tablet:: take 1 tablet by oral n route every day,Oral route,C1527415,26643006,SNOMED CT,0.64,0.55,1
+vaseline,Vaseline,C0728774,224932,RxNorm,1,1,1
+hydrocortisone 2.5 % ointment,hydrocortisone 0.025 MG/MG Topical Ointment,C0352326,103401,RxNorm,0.95,0.96,0.92
+ozempic 0.25 mg or 0.5 mg (2 mg/1 5 ml) subcutarieous pen injector inject 0.25 mg every work by subcutaneous round,"OZEMPIC 2 MG per 1.5 ML Pen Injector, 1 MG Dose",C4521384,1991317,RxNorm,0.77,0.74,0.88
+lantus cose twice a day,Twice a day,C0585361,229799001,SNOMED CT,0.71,0.64,1
+acetaminophen 325 mg tablet instructions: take 2 tablets (650 mg total) by mouth every 4 hours as needed,Every 2 to 4 hours,C0589081,225752000,SNOMED CT,0.48,0.37,0.91
+novolog,NovoLog,C0939412,284810,RxNorm,1,1,1
+semglee (yfgn) 100 unit/ml solution pen-injector 45 units am and 45 units pm as directed subcutaneous every 12 hours,Semglee 300 UNT per 3 ML Pen Injector,C5241352,2377231,RxNorm,0.65,0.62,0.77
+basaglar kwikpen 100 unit/ml solution pen-injector 45 units as directed subcutaneous every 12 hours,Basaglar KwikPen 100 UNT/ML in 3 ML Pen Injector,C4073423,1736863,RxNorm,0.76,0.72,0.89
+insulin glargine 100 unit/ml solution pen-injector 20 units am and 35 pm at night as directed subcutaneous twice daily,insulin glargine 300 UNT per 3 ML Pen Injector,C3888222,847230,RxNorm,0.66,0.61,0.82
+prevnar 13),Prevnar,C0876134,798236,RxNorm,1,1,1
+ibuprofen (motrin) 20 mg/ml liquid 146 mg (146 mg oral,ibuprofen Oral Liquid Product,C3210714,1156276,RxNorm,0.84,0.84,0.84
+ibuprofen (motrin) 20 mg/ml,ibuprofen Oral Tablet [Motrin],C0306865,93358,RxNorm,0.96,1,0.78
+motrin 20mg/ml,Motrin 200 MG Oral Tablet,C0697656,201126,RxNorm,0.87,1,0.67
+prednisolone daily,prednisolone,C0032950,8638,RxNorm,0.8,0.67,1
+polymyxin b,polymyxin B,C0032535,8536,RxNorm,1,1,1
+topiramate 50 mg once daily,Once daily,C0556983,229797004,SNOMED CT,0.73,0.66,1
+flovent hfa 110 mcg/actuation aerosol inhaler,"Flovent HFA 110 MCG/ACTUAT Metered Dose Inhaler, 120 ACTUAT",C1966478,896001,RxNorm,0.73,0.72,0.79
+tretinoin (retin-a) 0.025 % cream:: sig: apply 1 application topically at bedtime,Retin-A 0.025 % Topical Cream,C0709860,208328,RxNorm,0.67,0.63,0.83
+hyoscyamine (anaspaz,hyoscyamine sulfate 0.125 MG [Anaspaz],C2954504,1048055,RxNorm,0.94,0.89,1
+depo-provera,Depo-Provera,C0699700,202886,RxNorm,1,1,1
+humalog 2 times a week,4 times a week,C0585297,307445009,SNOMED CT,0.7,0.64,0.92
+scopolamine 1 mg,scopolamine,C0036442,9601,RxNorm,1,1,1
+boostrix vaccination,Vaccination,C0042196,33879002,SNOMED CT,0.89,0.82,1
+ferrous sulfate 325 mg po daily,ferrous sulfate,C0060282,24947,RxNorm,0.68,0.61,1
+ketorolac (toradol) injection 15 mg,ketorolac Oral Tablet [Toradol],C1243153,369148,RxNorm,0.95,1,0.74
+doxycycline 100mg bid,doxycycline,C0013090,3640,RxNorm,0.83,0.78,1
+estrace 0.01% (0.1 mg/gram) vaginal cream; at bedtime twice weekly,Estrace 0.1 MG/ML Vaginal Cream,C0706588,890918,RxNorm,0.72,0.66,0.95
+depo provera 150mg,Depo-Provera,C0699700,202886,RxNorm,1,1,1
+tylenol 325 mg oral capsule,Tylenol 325 MG Oral Capsule,C4073803,1738139,RxNorm,1,1,1
+penicillin g potassium,penicillin G potassium,C0700462,203133,RxNorm,1,1,1
+benadryl (diphenhydramine,diphenhydramine Oral Solution [Benadryl],C1238064,364116,RxNorm,0.98,0.97,1
+sodium chloride 0.9%,sodium chloride,C0037494,9863,RxNorm,1,1,1
+shingrix,Shingrix,C4530100,1986826,RxNorm,1,1,1
+polyethylene glycol 3350 (polyethylene glycol 3350 oral powder,polyethylene glycol 3350 Oral Powder Product,C4307273,1870357,RxNorm,0.96,0.96,1
+rotateq) rvs,RotaTeq,C1528013,496892,RxNorm,0.84,0.73,1
+acetaminophen prn,acetaminophen,C0000970,161,RxNorm,0.85,0.74,1
+cetirizine (zyrtec) 1 mg/ml solution:: 5ig: take 2.5 ml by mouth one time a day,cetirizine Oral Solution [Zyrtec],C1237850,363905,RxNorm,0.64,0.58,0.91
+varivax 0.5ml vaccine,VARIVAX vaccine 0.5 ML Injection,C1623097,1292459,RxNorm,0.98,1,0.89
+asmanex on flexhaler twice a day,Twice a day,C0585361,229799001,SNOMED CT,0.62,0.52,1
+avastin injection,Avastin,C1135130,337521,RxNorm,1,1,1
+ofloxacin bid,ofloxacin,C0028902,7623,RxNorm,0.89,0.82,1
+rv1 (rotarix,Rotarix,C1528012,493191,RxNorm,0.92,0.86,1
+"olopatadine ophthalmic (1 drop, affected eye(s), bid, 5 ml",olopatadine 1 MG/ML Ophthalmic Solution,C0979113,1111339,RxNorm,0.67,0.63,0.82
+ tessalon perles 100 mg po caps take 1 capsule 3 times daily as needed,Tessalon Perles 100 MG Oral Capsule,C0709910,208365,RxNorm,0.7,0.65,0.92
+azithromycin (zithromax z-pak) 250 mg po tabs sig: take 2 tabs by mouth on day 1,{6 (azithromycin 250 MG Oral Tablet [Zithromax]) } Pack [Z-PAK],C1878682,750149,RxNorm,0.6,0.55,0.79
+jardiance 10 mg tablet take 1 tablet(s) every day by oral route,Jardiance 25 MG Oral Tablet,C3848127,1545668,RxNorm,0.99,1,0.94
+lantus solestar u-100 insulin 100 unit/ml (3 ml) subcutaneous pen,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],C2683584,847232,RxNorm,0.69,0.68,0.74
+naproxen 500 mg tablet take 1 tablet(s) fwice a day by oral route,naproxen,C0027396,7258,RxNorm,0.74,0.67,1
+compazine,Compazine,C0701017,203546,RxNorm,1,1,1
+qvar redihaler 80 mcg/actuation hfa breath activated aerosol,Aerosol,C1112870,324049,RxNorm,0.67,0.58,1
+iron daily,iron,C0302583,90176,RxNorm,0.8,0.67,1
+"fluticasone propionate 50 mcg/actuation nasal spray,suspension: levalbuterol hfa 45 mcg/actuation aerosol inhaler:: inhale 2 spray by intranasal route every day",fluticasone propionate 110 MCG/ACTUAT Metered Dose Inhaler,C1613512,1360333,RxNorm,0.61,0.58,0.74
+"ventolin hfa 90 mcg/inh inhalation aerosol 2 puff, inhalation, q4h",Ventavis 10 MCG/ML Inhalation Solution,C1612414,582595,RxNorm,0.66,0.67,0.62
+claritin,Claritin,C0701055,203576,RxNorm,1,1,1
+nose drops,Nose Drops,C0991524,316958,RxNorm,1,1,1
+maxalt,Maxalt 5 MG Oral Tablet,C0716344,213321,RxNorm,1,1,1
+chlorhexidine (hibiclens) 4 % external liquid,chlorhexidine Oral Liquid Product,C3208067,1153586,RxNorm,0.74,0.74,0.75
+ibuprofen 800 mg tablet:: sig: take 800 mg by mouth every 6 (six) hours as needed,Every 3 hours,C0585323,225753005,SNOMED CT,0.41,0.28,0.92
+amoxil,Amoxil,C0700524,203169,RxNorm,1,1,1
+daptacel vaccine,DAPTACEL vaccine 0.5 ML Injection,C1169838,1300310,RxNorm,1,1,1
+engerix-b,Engerix-B,C0116078,49610,RxNorm,1,1,1
+haemophilus influenzae type b,Haemophilus influenzae type b,C0121772,50937,RxNorm,1,1,1
+pedvaxhib,PedvaxHIB,C0722529,798448,RxNorm,1,1,1
+budesonide (pulmicort) 0.5 mg/2ml nebulizer suspension use 2 ml via nebulizer daily as needed,Budesonide 500 microgram/mL suspension for nebulizer,C0794777,1255203009,SNOMED CT,0.76,0.76,0.79
+vfc-vaxelis,Vaxelis,C4506397,2109616,RxNorm,1,1,1
+vfc-rotarix (rotavirus) dose,Rotavirus,C0035870,417542000,SNOMED CT,0.91,0.89,1
+deltasone 20mg tab,K-Tab,C0306522,93028,RxNorm,0.67,0.65,0.75
+lantus 10 units nightly,Lantus,C0876064,261551,RxNorm,0.56,0.45,1
+metformin 1000 mg twice daily,Twice daily,C0585361,229799001,SNOMED CT,0.75,0.69,1
+mycoplasma pneumoniae,Mycoplasma pneumoniae,C0026941,1360621,RxNorm,1,1,1
+oxytocin (pitocin) 30 units in 500 ml 0.9% sodium chloride infusion,Sodium chloride 4.5 mg/mL solution for infusion,C5567388,1172477000,SNOMED CT,0.7,0.69,0.73
+havrix vpc,Havrix,C0700881,203439,RxNorm,0.84,0.73,1
+"infanrix (dtaP) 0.5 mL IM – contains diphtheria, tetanus, and acellular pertussis components (FHA, pertactin, pertussis toxoid)",DTaP - diphtheria + tetanus + acellular pertussis immunization,C5397478,5.72E+14,SNOMED CT,0.73,0.69,0.87
+diphenhydramine,diphenhydramine,C0012522,3498,RxNorm,1,1,1
