@@ -1,0 +1,10 @@
+pandas
+pyarrow
+sentence-transformers
+faiss-cpu
+rank_bm25
+thefuzz[python-Levenshtein]
+numpy
+openpyxl
+gradio
+torch
